@@ -79,6 +79,3 @@ transparentllm/
 └── package.json
 ```
 
-## License
-
-MIT
